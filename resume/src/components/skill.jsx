@@ -99,7 +99,7 @@ export default class Skill extends Component {
 
                         <div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="progress-wrap">
-								<h3>HTML5</h3>
+								<h5>HTML5</h5>
 								<div class="progress">
 								 	<div class="progress-bar color-9" role="progressbar" aria-valuenow="80"
 								  	aria-valuemin="0" aria-valuemax="100" style={{width: "75%"}}>
